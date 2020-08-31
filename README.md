@@ -1,1 +1,1 @@
-<object data="http://yoursite.com/the.pdf" type="application/pdf"/>
+<object data="Report.pdf" type="application/pdf"/>
