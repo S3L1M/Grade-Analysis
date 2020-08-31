@@ -1,2 +1,1 @@
-<object data="/Report.pdf" type="application/pdf" width="100%"> 
-</object>
+![](/images/Report-01.svg)
